@@ -1,8 +1,10 @@
 # FROGVERSE - Universe of Frogs
+![Screenshot 2024-06-29 204944](https://github.com/bitcryptodev/Frogverse/assets/174127591/43ce20bc-8a01-4f79-a290-24bc0069c5f2)
 
 You own a pond where you can take care and nourish cute little tadpoles into frogs
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript.
+
 
 ## Quickstart
 
@@ -11,8 +13,8 @@ To get started, follow the steps below:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/codechefsong/Flowerverse
-cd Flowerverse
+git clone https://github.com/bitcryptodev/Frogverse
+cd Frogverse
 yarn install
 ```
 
@@ -38,4 +40,6 @@ This command deploys a test smart contract to the local network. The contract is
 yarn start
 ```
 
-Visit your app on: `http://localhost:3000`. You can interact with your smart contract using the contract component or the example ui in the frontend. You can tweak the app config in `packages/nextjs/scaffold.config.ts`.
+Visit your app on: `http://localhost:3000`. Final you can get this amazing Frogverse on your screen: 
+![Screenshot 2024-06-28 143214](https://github.com/bitcryptodev/Frogverse/assets/174127591/a721b0e4-a270-4e63-bb5d-4ac3ee8e0475)
+
