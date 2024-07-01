@@ -1,6 +1,7 @@
 # FROGVERSE - Universe of Frogs
 
 You own a pond where you can take care and nourish cute little tadpoles into frogs
+
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript.
 
 ## Quickstart
