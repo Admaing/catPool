@@ -1,7 +1,7 @@
 # FROGVERSE - Universe of Frogs
 ![Screenshot 2024-06-29 204944](https://github.com/bitcryptodev/Frogverse/assets/174127591/43ce20bc-8a01-4f79-a290-24bc0069c5f2)
 
-You own a pond where you can take care and nourish cute little tadpoles into frogs
+You own a pond where you can take care and nourish cute little tadpoles into frogs 🐸
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript.
 
