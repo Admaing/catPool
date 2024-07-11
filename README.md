@@ -5,7 +5,6 @@ You own a pond where you can take care and nourish cute little tadpoles into fro
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript.
 
-
 ## Quickstart
 
 To get started, follow the steps below:
