@@ -1,11 +1,11 @@
 const contracts = {
-  59141: [
+  31337: [
     {
-      chainId: "59141",
-      name: "linea_sepolia",
+      chainId: "31337",
+      name: "localhost",
       contracts: {
         YourGarden: {
-          address: "0x6Ba530eE6c234Bd516B7810afb54DDcaefE7BD3a",
+          address: "0x8464135c8F25Da09e49BC8782676a84730C318bC",
           abi: [
             {
               inputs: [
