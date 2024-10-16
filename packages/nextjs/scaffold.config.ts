@@ -36,10 +36,32 @@ const linea_sepolia = defineChain({
   },
   network: "Linea Sepolia",
 });
+// 定义 Hardhat 本地网络
+const hardhatLocal = defineChain({
+  id: 31337,
+  name: "Hardhat Local",
+  nativeCurrency: {
+    decimals: 18,
+    name: "Ether",
+    symbol: "ETH",
+  },
+  rpcUrls: {
+    default: {
+      http: ["http://127.0.0.1:8545"],
+    },
+    public: {
+      http: ["http://127.0.0.1:8545"],
+    },
+  },
+  blockExplorers: {
+    default: { name: "Explorer", url: "" }, // 本地网络通常没有区块浏览器
+  },
+  network: "Hardhat Local",
+});
 
 const scaffoldConfig = {
   // The network where your DApp lives in
-  targetNetwork: linea_sepolia,
+  targetNetwork: hardhatLocal,
 
   // The interval at which your front-end polls the RPC servers for new data
   // it has no effect on the local network

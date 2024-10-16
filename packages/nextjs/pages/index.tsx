@@ -20,7 +20,7 @@ const Home: NextPage = () => {
           
 
           <p className="text-center text-lg">
-            You own a Frog pond where you can raise and nourish Cute Tadpoles into Beautiful Frogs.
+            You own a Cat pond where you can raise and nourish Cute Tadpoles into Beautiful Frogs.
           </p>
 
           <div className="flex justify-center">
